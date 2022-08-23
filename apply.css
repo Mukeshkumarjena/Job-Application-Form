@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(113, 140, 220);
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.new_box {
+    max-width: 600px;
+    padding: 20px;
+    background-color: rgb(246, 215, 10);
+    margin: 0 auto;
+    margin-top: 250px;
+    box-shadow: 4px 3px 5px rgba(1, 1, 1, 0.1);
+    border-radius: 10px
+}
